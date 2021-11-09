@@ -1,0 +1,44 @@
+body{
+    background-color: #083b4c;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+p{
+    margin: 0;
+    color: white;
+    font-size: 7rem;
+    text-align: center;
+}
+
+.box{
+    height: 120px;
+    width: 120px;
+    line-height: 120px;
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+.numero{
+    background-color: #1389b2;
+}
+
+.fizz{
+    background-color: #0bd6a1;
+}
+
+.buzz{
+    background-color: #ffd166;
+}
+
+.fizzbuzz{
+    background-color: #f0466f;
+}
