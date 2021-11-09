@@ -18,9 +18,10 @@ p{
 }
 
 .box{
-    height: 120px;
-    width: 120px;
-    line-height: 120px;
+    height: 125px;
+    width: 125px;
+    line-height: 125px;
+    font-size: 1.2rem;
     text-align: center;
     list-style: none;
     display: inline-block;
